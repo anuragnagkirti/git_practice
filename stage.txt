@@ -1,0 +1,9 @@
+ This file is created to understand github and connecting to central repository.
+I will understand below commands with respect to above task :
+git pull origin master
+git push origin master
+git merge
+git fetch
+git clone
+git add remote origin
+
