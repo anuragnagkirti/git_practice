@@ -1,0 +1,6 @@
+This file is createwd to learn branching in git.
+The trunk branch will used to learn below commands :
+git checkout -b <branch_name>
+git branch -l
+git branch -a
+
